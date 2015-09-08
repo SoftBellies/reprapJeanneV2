@@ -8,7 +8,7 @@ Un nouvéau dépot git tout neuf (qui reprendra pas mal d'éléments du précéd
 ## To do list à court terme:
  * Timothee a dessiné la base (planches 80 * 70  à acheter), il doit publier ici son dessin :imp: 
  * Acheter les planches 80 * 70 cm
- * Gnieark: Apprendre à Audray et Timoth à dessiner des pièces 3D afin de pouvoir déléguer à max
+ * Gnieark: Apprendre à Audray et Timoth à dessiner des pièces 3D afin de pouvoir déléguer au maximum
  * Dessiner les nouveaux glissements adaptés aux nouveaux axes. Note de conception:  on garde les roulements à bille actuels:  (ça coute cher). (Gnieark a commencé mais déléguerait bien sur Audray ou Timothéé)
  * Dessiner les fixations des moteurs et courroie.
  * Démonter l'électronique de la Reprap (c'est trop pénible de travailler dessus alors que la rapms est à 2 m de hauteur)  pour débog / décourcuitages /circuitages des mauvais contacts etc...
