@@ -11,6 +11,9 @@ Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précéde
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.png)
 
 ##Plateaux
+
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/baseImprimante3d.png)
+
 ##Fixation poulie au bas des axes
 ##Fixation moteurs en haut des axes
 ##Glissements le long des axes
