@@ -7,7 +7,7 @@ Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précéde
 #Mécanique / structure
 ##Axes / Profils
 3 axes d'environ 2 m de haut dont voici la coupe:
-https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glissement.png
+
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.png)
 
 ##Plateaux
@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glisseme
 
 Le STL ext dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 
-![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.png)
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glissement.png)
 
 ##Rotules pour fixer la biellette aux glissements et à la plateforme
 ##Pièce de liaison biellete / rotules
