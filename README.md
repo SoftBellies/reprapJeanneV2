@@ -6,6 +6,9 @@ La [reprapJeanne](https://github.com/jeannedhack/reprapJeanne) 1 (projet non ter
 Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précédent.
 #Mécanique / structure
 ##Axes / Profils
+3 axes d'environ 2 m de haut dont voici la coupe:
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.svg)
+
 ##Plateaux
 ##Fixation poulie au bas des axes
 ##Fixation moteurs en haut des axes
