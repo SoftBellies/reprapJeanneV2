@@ -4,8 +4,21 @@ Imprimante 3D grande taille
 La [reprapJeanne](https://github.com/jeannedhack/reprapJeanne) 1 (projet non terminé) avait des problème de stabilité. On a trouvé des superbes profils alu, jetés aux encombrants par un commerçant du quartier qui pourraient corriger ce problème. Allez, nous sommes des ouf, on refait toute la conception!
 
 Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précédent.
+### Mécanique
+##structure
+#Axes / Profils
+#Plateaux
+#Fixation poulie au bas des axes
+#Fixation moteurs en haut des axes
+#Glissements le long des axes
+#Rotules pour fixer la biellette aux glissements et à la plateforme
+#Pièce de liaison biellete / rotules
+#Plateforme d'extrusion
+#Bowden
 
-## To do list à court terme:
+## Electronique et firmware
+
+### To do list à court terme:
  * Acheter les planches 80 * 70 cm
  * Gnieark: Apprendre à Audray et Timoth à dessiner des pièces 3D afin de pouvoir déléguer au maximum
  * Dessiner les nouveaux glissements adaptés aux nouveaux axes. Note de conception:  on garde les roulements à bille actuels:  (ça coute cher). (Gnieark a commencé mais déléguerait bien sur Audray ou Timothéé)
