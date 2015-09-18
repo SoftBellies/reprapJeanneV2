@@ -24,7 +24,7 @@ difference(){
 		translate([40,31.5,15]) rotate([90,0,0]) bumpForBearing();
 		translate([40,9.5,5]) rotate([90,0,0]) bumpForBearing();
 		translate([3.5,-5,5]) rotate([90,0,90]) bumpForBearing();
-		translate([25.5,-5,15]) rotate([90,0,90]) bumpForBearing();
+		translate([25.5,-5,15]) rotate([90,0,90])bumpForBearing();
 		translate([3.5,40,15]) rotate([90,0,90]) bumpForBearing();
 		translate([25.5,40,5]) rotate([90,0,90]) bumpForBearing();
 	}
@@ -34,6 +34,23 @@ difference(){
 		translate([20,-5,15]) rotate([90,0,90]) cylinder(r=1.5,h=35,$fn=50);
 		translate([-20,40,15]) rotate([90,0,90]) cylinder(r=1.5,h=35,$fn=50);
 		translate([20,40,5]) rotate([90,0,90]) cylinder(r=1.5,h=35,$fn=50);
+
+		translate([-5,20,5]) rotate([270,0,0]) cylinder(r=1.5,h=35,$fn=50);
+		translate([-5,-20,15]) rotate([270,0,0]) cylinder(r=1.5,h=35,$fn=50);
+		translate([40,20,15]) rotate([270,0,0]) cylinder(r=1.5,h=35,$fn=50);
+		translate([40,-20,5]) rotate([270,0,0]) cylinder(r=1.5,h=35,$fn=50);
+
+	//trous élargis pour les têtes des vis
+		translate([-20,-5,5]) rotate([90,0,90]) cylinder(r=4,h=20,$fn=50);
+		translate([38,-5,15]) rotate([90,0,90]) cylinder(r=4,h=20,$fn=50);
+		translate([-20,40,15]) rotate([90,0,90]) cylinder(r=4,h=20,$fn=50);
+		translate([38,40,5]) rotate([90,0,90]) cylinder(r=4,h=20,$fn=50);
+
+		translate([-5,38,5]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
+		translate([40,38,15]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
+
+		translate([-5,-22,15]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
+		translate([40,-22,5]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
 
 
 	}
