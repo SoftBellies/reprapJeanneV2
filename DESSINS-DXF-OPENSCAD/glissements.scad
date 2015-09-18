@@ -15,8 +15,15 @@
 difference(){
 	union(){
 		//Profil de la pièce
-		linear_extrude (height=20)
+		linear_extrude (height=7.5)
 			  import (file="profil-axe.dxf", layer="guides-profil-pour-3D", $fn=100);
+		
+		translate( [0,0,7.499]) linear_extrude (height=5.001)
+			  import (file="profil-axe.dxf", layer="guides-profil-pour-3D2", $fn=100);
+
+		translate( [0,0,12.499]) linear_extrude (height=7.5)
+			  import (file="profil-axe.dxf", layer="guides-profil-pour-3D", $fn=100);
+
 
 		//les déborts pour appuyer sur la tranche des roulements à billes
 		translate([-5,31.5,5]) rotate([90,0,0]) bumpForBearing();
@@ -52,6 +59,8 @@ difference(){
 		translate([-5,-22,15]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
 		translate([40,-22,5]) rotate([270,0,0]) cylinder(r=4,h=20,$fn=50);
 
+		//trou vis rotule
+		translate([-40,52,10])rotate([90,0,90]) cylinder(r=1.5,h=120,$fn=50);
 
 	}
 }
