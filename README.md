@@ -7,7 +7,7 @@ Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précéde
 #Mécanique / structure
 ##Axes / Profils
 3 axes d'environ 2 m de haut dont voici la coupe:
-![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.svg)
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.png)
 
 ##Plateaux
 ##Fixation poulie au bas des axes
