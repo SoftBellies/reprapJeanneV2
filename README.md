@@ -18,11 +18,21 @@ Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précéde
 ##Fixation moteurs en haut des axes
 ##Glissements le long des axes
 
-Le STL ext dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glissement.png)
 
 ##Rotules pour fixer la biellette aux glissements et à la plateforme
+
+
+C'est la pièce qui sert d'articulation au niveau des bielletes
+###Projection orthogonale
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule.png)
+
+###Vu 3D
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule3D.png)
+Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+
 ##Pièce de liaison biellete / rotules
 ##Plateforme d'extrusion
 ##Bowden
@@ -38,4 +48,4 @@ Le STL ext dans le dossier STL de ce dépot et les fichiers de constructions dan
  
 # Contribuer:
 
-Le plus simple est de venir nous rencontrer, le lundi soir, vers 20 h au hackerspace Jeannedhack (Rouen - France):  [https://www.jeannedhack.org/](https://www.jeannedhack.org/)
+Le plus simple est de venir nous rencontrer, le lundi soir, vers 20 h au hackerspace Jeannedhack (Rouen - France):  [https://www.jeannedhack.org/](https://www.jeannedhack.org/)3
