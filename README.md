@@ -5,6 +5,9 @@ La [reprapJeanne](https://github.com/jeannedhack/reprapJeanne) 1 (projet non ter
 
 Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précédent.
 #Mécanique / structure
+
+##Vue/schémas d'ensemble
+A faire...
 ##Axes / Profils
 3 axes d'environ 2 m de haut dont voici la coupe:
 
@@ -29,7 +32,7 @@ C'est la pièce qui sert d'articulation au niveau des bielletes
 ###Projection orthogonale
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule.png)
 
-###Vu 3D
+###Vue 3D
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule3D.png)
 Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 
