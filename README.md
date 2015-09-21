@@ -20,8 +20,8 @@ Fixation poulie au bas des axes| à imprimer | 3| à dessiner |
 Fixation moteurs en haut des axes| à imprimer | 3 | à dessiner | 
 Glissements le long des axes | à imprimer | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glissement200.png) |Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Rotules pour fixer la biellette aux glissements et à la plateforme | à imprimer | 12 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule3D200.png)|Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
-Pièce de liaison biellete / rotules| à imprimer | 12 |(à reprendre du projet reprapjeanneV1) | 
-Plateforme d'extrusion | à imprimer |1 |(à reprendre du projet reprapjeanneV1) | 
+Pièce de liaison biellete / rotules| à imprimer | 12 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation-biellette200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+Plateforme d'extrusion | à imprimer |1 |
 Bowden|à imprimer partiellement | 1 |à faire... | 
 
 #Electronique et firmware
