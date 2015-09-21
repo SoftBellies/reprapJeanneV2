@@ -23,7 +23,9 @@ Rotules pour fixer la biellette aux glissements et à la plateforme | à imprime
 Pièce de liaison biellete / rotules| à imprimer | 12 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation-biellette200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Plateforme d'extrusion | à imprimer |1 |
 Bowden|à imprimer partiellement | 1 |à faire... | 
-
+Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m | |
+Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 | | 
+Roulements à bille 623 ZZ | à reprendre de l'ancienne imprimante| 24 | | 
 #Electronique et firmware
 
 # To do list à court terme:
