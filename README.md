@@ -32,7 +32,7 @@ Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'anc
 Le classique dans le domaine des reprap Arduino Mega + Ramps + Polulus
 # To do list à court terme:
  * Acheter les planches 80 * 70 cm
- * Audray et Timoth apprendre à  utilioser git et à dessiner des pièces 3D afin de pouvoir déléguer au maximum
+ * Audray et Timoth apprendre à  utiliser git et à dessiner des pièces 3D.
  * Dessiner les pièces mentionnées "à faire" dans le tableau ci dessus.
  * Démonter l'électronique de la Reprap (c'est trop pénible de travailler dessus alors que la rapms est à 2 m de hauteur)  pour débog / décourcuitages /circuitages des mauvais contacts etc...
  
