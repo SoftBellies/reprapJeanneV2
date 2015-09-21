@@ -7,14 +7,14 @@
 * NON TERMINE
 *
 * Copyleft (see license file):
-* hackerspace Jeanned'Hack http://www.jeannedhack.org
+* hackerspace Jeanne d'Hack http://www.jeannedhack.org
 * Gnieark https://blog-du-grouik.tinad.fr
 *
 */
 
 difference(){
 	union(){
-		//Profil de la pièce
+		//Profils de la pièce
 		linear_extrude (height=7.5)
 			  import (file="profil-axe.dxf", layer="guides-profil-pour-3D", $fn=100);
 		
@@ -23,7 +23,6 @@ difference(){
 
 		translate( [0,0,12.499]) linear_extrude (height=7.5)
 			  import (file="profil-axe.dxf", layer="guides-profil-pour-3D", $fn=100);
-
 
 		//les déborts pour appuyer sur la tranche des roulements à billes
 		translate([-5,31.5,5]) rotate([90,0,0]) bumpForBearing();

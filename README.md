@@ -9,7 +9,7 @@ Un nouvéau dépot git tout neuf qui reprendra pas mal d'éléments du précéde
 ##Vue/schémas d'ensemble
 A faire...
 ##Axes / Profils
-3 axes d'environ 2 m de haut dont voici la coupe:
+3 axes aluminium d'environ 2 m de haut dont voici la coupe:
 
 ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe.png)
 
@@ -37,6 +37,10 @@ C'est la pièce qui sert d'articulation au niveau des bielletes
 Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 
 ##Pièce de liaison biellete / rotules
+
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation-biellette.png)
+Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+
 ##Plateforme d'extrusion
 ##Bowden
 
