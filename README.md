@@ -14,7 +14,7 @@ A faire...
 
 Nom de la pièce | à imprimer / acheter / fabriquer? | quantités | image | liens
 -------------|-------------|---------|---------|----------------
-Axes aluiminium 2m | Non, récupération | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+Axes aluminium 2m | Non, récupération | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Plateaux|Supports Bois à découper |2|![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/baseImprimante3d200.png)|Le DXF est dans le dépot.
 Fixation poulie au bas des axes| à imprimer | 3| à dessiner | 
 Fixation moteurs en haut des axes| à imprimer | 3 | à dessiner | 
@@ -25,14 +25,14 @@ Plateforme d'extrusion | à imprimer |1 |
 Bowden|à imprimer partiellement | 1 |à faire... | 
 Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m | |
 Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 | | 
-Roulements à bille 623 ZZ | à reprendre de l'ancienne imprimante| 24 | | 
+Roulements à bille 623 ZZ (pour les glissements)| à reprendre de l'ancienne imprimante| 24 | | 
+Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'ancienne imprimante| 3 | | 
 #Electronique et firmware
-
+Le classique dans le domaine des reprap Arduino Mega + Ramps + Polulus
 # To do list à court terme:
  * Acheter les planches 80 * 70 cm
- * Gnieark: Apprendre à Audray et Timoth à dessiner des pièces 3D afin de pouvoir déléguer au maximum
- * Dessiner les nouveaux glissements adaptés aux nouveaux axes. Note de conception:  on garde les roulements à bille actuels:  (ça coute cher). (Gnieark a commencé mais déléguerait bien sur Audray ou Timothéé)
- * Dessiner les fixations des moteurs et courroie.
+ * Audray et Timoth apprendre à  utilioser git et à dessiner des pièces 3D afin de pouvoir déléguer au maximum
+ * Dessiner les pièces mentionnées "à faire" dans le tableau ci dessus.
  * Démonter l'électronique de la Reprap (c'est trop pénible de travailler dessus alors que la rapms est à 2 m de hauteur)  pour débog / décourcuitages /circuitages des mauvais contacts etc...
  
 # Contribuer:
