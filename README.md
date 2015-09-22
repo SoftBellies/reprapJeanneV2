@@ -23,6 +23,7 @@ Rotules pour fixer la biellette aux glissements et à la plateforme | à imprime
 Pièce de liaison biellette / rotules| à imprimer | 12 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation-biellette200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Plate-forme d'extrusion partie 1 (adaptée à une buse J-Head- mini)| à imprimer |1 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/platform-part1-200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Plateforme d'extrusion partie 2| à imprimer |1 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/platform-part2-200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+Fixation des fins de courses optiques sur les axes| à imprimer |3 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixendstop200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Bowden|à imprimer partiellement | 1 |à faire... | 
 Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m | |
 Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 | | 
@@ -31,10 +32,7 @@ Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'anc
 #Électronique et firmware
 Le classique dans le domaine des reprap Arduino Mega + Ramps + Polulus
 # To do list à court terme
- * Acheter les planches 80 * 70 cm
- * Audray et Timoth apprendre à utiliser git et à dessiner des pièces 3D.
- * Dessiner les pièces mentionnées "à faire" dans le tableau ci-dessus.
- * Démonter l'électronique de la Reprap (c'est trop pénible de travailler dessus alors que la rapms est à 2 m de hauteur) pour débog / décourcuitages /circuitages des mauvais contacts etc.
+On utilise les "issues" de github pour répartir les tâches.
  
 # Contribuer
 

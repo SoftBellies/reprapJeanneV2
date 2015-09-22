@@ -1,3 +1,18 @@
+
+/*
+Projet ReprapJeanne
+
+Fixations des fins de courses optiques
+
+github: https://github.com/jeannedhack/reprapJeanneV2
+
+hackerspace Jeanne d'hack https://www.jeannedhack.org
+by moebiuseye
+
+License GNU-GPL 
+
+*/
+
 // Fixation
 color([0,0,1])
 difference() {
