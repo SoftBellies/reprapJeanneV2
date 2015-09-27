@@ -1,7 +1,7 @@
 # reprapJeanneV2
 Imprimante 3D grande taille
 
-La [reprapJeanne](https://github.com/jeannedhack/reprapJeanne) 1 (projet non terminé) avait des problème de stabilité. On a trouvé des superbes profils alu, jetés aux encombrants par un commerçant du quartier qui pourraient corriger ce problème. Allez, nous sommes des ouf, on refait toute la conception!
+La [reprapJeanne](https://github.com/jeannedhack/reprapJeanne) 1 (projet non terminé) avait un problème de stabilité. On a trouvé des superbes profils alu, jetés aux encombrants par un commerçant du quartier qui pourraient corriger ce problème. Allez, nous sommes des ouf, on refait toute la conception!
 
 Un nouveau dépôt git tout neuf qui reprendra pas mal d'éléments du précédent.
 #Mécanique / structure
