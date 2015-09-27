@@ -26,7 +26,7 @@ Plateforme d'extrusion partie 2| à imprimer |1 |![image](https://raw.githubuser
 Fixation des fins de courses optiques sur les axes| à imprimer |3 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixendstop200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Bowden|à imprimer partiellement | 1 |à faire... | 
 Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m | |
-Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 | | 
+Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/nema17.jpg) |Les moteurs achetés ont un petit défaut: seuls deux trous en façade sont filetés.
 Roulements à bille 623 ZZ (pour les glissements)| à reprendre de l'ancienne imprimante| 24 | | 
 Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'ancienne imprimante| 3 | | 
 #Électronique et firmware
