@@ -24,8 +24,9 @@ Pièce de liaison biellette / rotules| à imprimer | 12 |![image](https://raw.gi
 Plate-forme d'extrusion partie 1 (adaptée à une buse J-Head- mini)| à imprimer |1 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/platform-part1-200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Plateforme d'extrusion partie 2| à imprimer |1 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/platform-part2-200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Fixation des fins de courses optiques sur les axes| à imprimer |3 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixendstop200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
+fins de courses optiques| à ireprendre de l'ancienne imprimante |3 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/end-stop-optique.jpg) |
 Bowden|à imprimer partiellement | 1 |à faire... | 
-Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m | |
+Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/courroie.jpg) | l'image provient de [e-motiontech](http://www.reprap-france.com/produit/387-courroie-gt2-au-metre)
 Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/nema17.jpg) |Les moteurs achetés ont un petit défaut: seuls deux trous en façade sont filetés.
 Roulements à bille 623 ZZ (pour les glissements)| à reprendre de l'ancienne imprimante| 24 | | 
 Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'ancienne imprimante| 3 | | 
