@@ -62,6 +62,10 @@ module glissement(){
 		  //trou vis rotule
 		  translate([-40,52,10])rotate([90,0,90]) cylinder(r=1.5,h=120,$fn=50);
 
+			//trous pour fixer la courroie
+			translate ([21.5,35,14]) rotate([0,0,90]) cube([20,8,4]);
+			translate ([21.5,35,3]) rotate([0,0,90]) cube([20,8,4]);
+		
 	  }
   }
 }
