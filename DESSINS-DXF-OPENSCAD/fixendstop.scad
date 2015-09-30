@@ -12,29 +12,30 @@ by moebiuseye
 License GNU-GPL 
 
 */
-
+fixationEndStop();
 // Fixation
-color([0,0,1])
-difference() {
-    linear_extrude(height=10)
-    union() {
-        translate([9.5,1.7,0])
-        square([16.1,5.9]);
-        translate([13.1,-3.1])
-        square([8.7,7]);
-        translate([0,-3.1])
-        square([26.8,2.9]);
-    }
-    color([1,0,0])
-    translate([5,0,0])
-       union(){
-       //screw holes
-               translate([0 ,5 ,3.2])rotate([90,0,0]) cylinder(r=1.5,h=10,$fn=50);
-               translate([19,1 ,3.2])rotate([90,0,0]) cylinder(r=1.5,h=10,$fn=50);
-               translate([14.2 ,10,3.2])rotate([90,0,0]) cylinder(r=1.5,h=20,$fn=50);
-       }
+module fixationEndStop(){
+  color([0,0,1])
+  difference() {
+      linear_extrude(height=10)
+      union() {
+	  translate([9.5,1.7,0])
+	  square([16.1,5.9]);
+	  translate([13.1,-3.1])
+	  square([8.7,7]);
+	  translate([0,-3.1])
+	  square([26.8,2.9]);
+      }
+      color([1,0,0])
+      translate([5,0,0])
+	union(){
+	//screw holes
+		translate([0 ,5 ,3.2])rotate([90,0,0]) cylinder(r=1.5,h=10,$fn=50);
+		translate([19,1 ,3.2])rotate([90,0,0]) cylinder(r=1.5,h=10,$fn=50);
+		translate([14.2 ,10,3.2])rotate([90,0,0]) cylinder(r=1.5,h=20,$fn=50);
+	}
+  }
 }
-
 /*
 // For testing / editing
 
