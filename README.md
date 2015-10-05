@@ -20,7 +20,7 @@ Axes aluminium 2m | Non, récupération | 3 | ![image](https://raw.githubusercon
 liteaux (même profil que les axes) | Non, récupération | 6 ou 9 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | 
 Plateaux|Supports Bois à découper |2|![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/baseImprimante3d200.png)|Le DXF est dans le dépot.
 Fixation poulie au bas des axes| à imprimer | 3| ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation_poulie.png) | 
-Fixation moteurs en haut des axes| à imprimer | 3 | à dessiner | 
+Fixation moteurs en haut des axes| à imprimer | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation_moteur.png) | 
 Glissements le long des axes | à imprimer | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/glissement200.png) |Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Rotules pour fixer la biellette aux glissements et à la plateforme | à imprimer | 12 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/rotule3D200.png)|Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 Pièce de liaison biellette / rotules| à imprimer | 12 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation-biellette200.png) | Le STL est dans le dossier STL de ce dépôt et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
