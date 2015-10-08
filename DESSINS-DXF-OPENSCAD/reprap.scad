@@ -31,3 +31,9 @@ translate([0,0,1965])
 	  import (file="baseImprimante3d.dxf", layer="liteaux", $fn=100);
 
 
+//fixation moteur
+use <fixation_moteur.scad>
+translate([-39.0609,-2.3446,120])
+	rotate([0,0,-60])
+		fixationMoteur();
+
