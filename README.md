@@ -41,4 +41,4 @@ On utilise les "issues" de github pour répartir les tâches.
  
 # Contribuer
 
-Le plus simple est de venir nous rencontrer, le lundi soir, vers 20 h au hackerspace Jeannedhack (Rouen - France):  [https://www.jeannedhack.org/](https://www.jeannedhack.org/)3
+Le plus simple est de venir nous rencontrer, le lundi soir, vers 20 h au hackerspace Jeannedhack (Rouen - France):  [https://www.jeannedhack.org/](https://www.jeannedhack.org/)
