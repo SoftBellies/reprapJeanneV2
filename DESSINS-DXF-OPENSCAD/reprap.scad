@@ -33,16 +33,37 @@ translate([0,0,1965])
 
 //fixations moteur
 use <fixation_moteur.scad>
-translate([-39.0609,-2.3446,110])
+translate([-39.0609,-2.3446,112])
 	rotate([0,0,-60])
-		fixationMoteur();
-translate([691.5609,-32.6554,110])
+		color([0,0,1]) fixationMoteur();
+translate([691.5609,-32.6554,112])
 	rotate([0,0,60])
-		fixationMoteur();
-translate([352.5,615.237,110])
+		color([0,0,1]) fixationMoteur();
+translate([352.5,615.237,112])
 	rotate([0,0,180])
-		fixationMoteur();
+		color([0,0,1]) fixationMoteur();
 
+//fixations moteur
+use <fixationPoulie.scad>
+translate([-39.0609,-2.3446,1900])
+	rotate([0,0,-60])
+		color([0,0,1]) fixationPoulies();
+translate([691.5609,-32.6554,1900])
+	rotate([0,0,60])
+		color([0,0,1]) fixationPoulies();
+translate([352.5,615.237,1900])
+	rotate([0,0,180])
+		color([0,0,1]) fixationPoulies();
 
+//glissements
 
-
+use <glissements.scad>
+translate([-39.0609,-2.3446,1000])
+	rotate([0,0,-60])
+		color([0,0,1]) glissement();
+translate([691.5609,-32.6554,1000])
+	rotate([0,0,60])
+		color([0,0,1]) glissement();
+translate([352.5,615.237,1000])
+	rotate([0,0,180])
+		color([0,0,1]) glissement();
