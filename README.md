@@ -18,6 +18,7 @@ Nom de la pièce | à imprimer / acheter / fabriquer? | quantités | image | lie
 -------------|-------------|---------|---------|----------------
 Axes aluminium 2m | Non, récupération | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
 liteaux (même profil que les axes) | Non, récupération | 6 ou 9 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | 
+Coins liteaux-axes | à imprimer | 6 ou 9 | à dessiner | 
 Plateaux|Supports Bois à découper |2|![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/baseImprimante3d200.png)|Le DXF est dans le dépot.
 Fixation poulie au bas des axes| à imprimer | 3| ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation_poulie.png) | 
 Fixation moteurs en haut des axes| à imprimer | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation_moteur.png) | 
