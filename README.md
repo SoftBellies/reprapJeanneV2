@@ -34,6 +34,7 @@ Courroies GT2|à reprendre de l'ancienne imprimante | 3 * 4m |![image](https://r
 Moteurs NEMA 17| à reprendre de l'ancienne imprimante| 4 |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/nema17.jpg) |Les moteurs achetés ont un petit défaut: seuls deux trous en façade sont filetés.
 Roulements à bille 623 ZZ (pour les glissements)| à reprendre de l'ancienne imprimante| 24 | | 
 Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'ancienne imprimante| 3 | | 
+Truc pour bloquer des pièces dans les axes| à imprimer| a lot |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/ecrous.png) |
 #Électronique et firmware
 Le classique dans le domaine des reprap Arduino Mega + Ramps + Polulus
 # To do list à court terme
