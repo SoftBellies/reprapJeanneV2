@@ -4,7 +4,6 @@
 * Fixation des poulies
 * le long des axes
 * 
-* NON TERMINE
 *
 * Copyleft (see license file):
 * hackerspace Jeanned'Hack http://www.jeannedhack.org
