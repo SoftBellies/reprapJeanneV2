@@ -37,6 +37,13 @@ Roulements à bille 624 ZZ (pour les retours de courroie)| à reprendre de l'anc
 Truc pour bloquer des pièces dans les axes| à imprimer| a lot |![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/ecrous.png) |
 #Électronique et firmware
 Le classique dans le domaine des reprap Arduino Mega + Ramps + Polulus
+
+##Firmware
+Marlin https://github.com/MarlinFirmware/Marlin
+Voir dans le dossier Firmware de ce dépôt pour les fichiers de configuration
+
+##Octopi
+
 # To do list à court terme
 On utilise les "issues" de github pour répartir les tâches.
  
