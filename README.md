@@ -7,7 +7,7 @@ Un nouveau dépôt git tout neuf qui reprendra pas mal d'éléments du précéde
 #Mécanique / structure
 
 ##Vue / schémas d'ensemble
-![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/Rep.svg)
+![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/Rep.png)
 
 
 
