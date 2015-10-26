@@ -17,7 +17,7 @@ Un nouveau dépôt git tout neuf qui reprendra pas mal d'éléments du précéde
 Nom de la pièce | à imprimer / acheter / fabriquer? | quantités | image | liens
 -------------|-------------|---------|---------|----------------
 Axes aluminium 2m | Non, récupération | 3 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | Le STL est dans le dossier STL de ce dépot et les fichiers de constructions dans le dossier DESSINS-DXF-OPENSCAD
-liteaux (même profil que les axes) | Non, récupération | 6 ou 9 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) | 
+liteaux (même profil que les axes) 646.5 mm arrondir par défaut lors de la découpe (peuvent être quelques millimetres plus petits mais peuvent pas être plus grand) | Non, récupération | 6 ou 9 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/profil-axe200.png) |
 Coins liteaux-axes | à imprimer | 6 ou 9 | ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/piece_coin.png) | 
 Plateaux|Supports Bois à découper |2|![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/baseImprimante3d200.png)|Le DXF est dans le dépot.
 Fixation poulie au bas des axes| à imprimer | 3| ![image](https://raw.githubusercontent.com/jeannedhack/reprapJeanneV2/master/img/fixation_poulie.png) | 
