@@ -10,4 +10,6 @@ translate([3, 3, -5]) #cylinder(h=25, r=2);
 translate([39, 3, -5]) #cylinder(h=25, r=2);
 translate([3, 39, -5]) #cylinder(h=25, r=2);
 translate([39, 39, -5]) #cylinder(h=25, r=2);
+rotate([90, 0, 0]) translate([-9, 5, -32.5]) #cylinder(h=25, r=2);
+rotate([90, 0, 0]) translate([52, 5, -32.5]) #cylinder(h=25, r=2);
 }
