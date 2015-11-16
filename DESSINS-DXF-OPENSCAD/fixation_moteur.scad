@@ -7,9 +7,10 @@ module fixationMoteur(){
 	  union(){
 		  translate ([40,38.25,0])rotate([0,270,0]) 
 			  linear_extrude (height=100)
-				  import (file="fixation_moteur.dxf", layer="fixation2", $fn=100);	
+				  import (file="fixation_moteur.dxf", layer="fixation2", $fn=100);
 
-		  translate ([-10,19.1,22.1]) rotate ([0,90,0]) cylinder (r=1.5, h=50);
+	rotate([90, 0, 0]) translate([-8, 22, -30]) #cylinder(h=25, r=2);
+rotate([90, 0, 0]) translate([42, 22, -30]) #cylinder(h=25, r=2);
 	  }
   }
 }
